@@ -1,0 +1,21 @@
+{
+  "version": "0.5.1",
+  "createTimestamp": 1721380826345,
+  "modifyTimestamp": 1721380826345,
+  "uri": "file:/C:/Users/jcc234/OneDrive%20-%20University%20of%20Exeter/Documents/Projects/Bec/Islet%20expansion%20python/QuPath%20proj/project.qpproj",
+  "lastID": 1,
+  "images": [
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.imagej.images.servers.ImageJServerBuilder",
+        "uri": "file:/C:/Users/jcc234/OneDrive%20-%20University%20of%20Exeter/Documents/Projects/Molly/Molly%20NARS2%20Images%20(2).lif%20-%20Control%20DAPI.tif",
+        "args": []
+      },
+      "entryID": 1,
+      "randomizedName": "1749daf7-52fd-4569-a130-601a1505900a",
+      "imageName": "Molly NARS2 Images (2).lif - Control DAPI.tif",
+      "metadata": {}
+    }
+  ]
+}
