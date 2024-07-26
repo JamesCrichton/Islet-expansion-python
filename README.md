@@ -1,4 +1,6 @@
-# Collection of Jupyter Notebooks for manipulating geojson annotation
+# Collection of Jupyter Notebooks for manipulating geojson annotations
+## Despite the repo name, these are not only about islet expansion
+
 
 These operations currently involve manipulation of geojson annotation files from segmentation or pancreas sections using HALO. 
 
